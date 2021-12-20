@@ -32,27 +32,3 @@ negation (c){
     return 'true';
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-// String printName( String name, int age) {
-//   var info = 'name - $name, age $age';
-//   return info;
-// }
-
-// String printName2( String name, int age) => 'name - $name, age $age';
-
-
-// int printType(){
-//   return 50;
-// }
